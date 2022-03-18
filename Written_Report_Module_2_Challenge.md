@@ -24,7 +24,7 @@
 ## Summary
 
 -   Advantages or of refactoring code
-    -   By refactoring the VBA script, the code became more efficient and it took less steps to execute the code.
+    -   By refactoring the VBA script, it became more efficient and took less steps and time to execute the code.
 
     -   Another advantage of refactoring is prompting data analysts to review the flow and logic of the code (e.g. conditions and for loops) and ensure everything is written appropriately.
 
