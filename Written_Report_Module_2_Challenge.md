@@ -13,10 +13,10 @@
     - 	Based on the data of 2017 and 2018, ENPH and RUN outperformed the other stocks and ENPH would be a great investment choice.
 
 -   Execution times of the original script and the refactored script
-    -   The original script (see below) took around 1.30 and 1.27 seconds (rounded to the nearest hundredth), respectively, to generate the analysis for 2017 and 2018, respectively.  
+    -   The original script (see below) took around 1.30 and 1.27 seconds (rounded to the nearest hundredth) to generate the analysis for 2017 and 2018, respectively.  
         ![VBA_Challenge_2017_Original](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png)
         ![VBA_Challenge_2018_Original](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png)
-    -   The refactored script took only 0.16 seconds (rounded to the nearest hundredth) to generate an analysis of 2017 and 2018, respectively, which is significantly  faster than the original script.
+    -   The refactored script (see below) took only 0.16 seconds (rounded to the nearest hundredth) to generate an analysis of 2017 and 2018, respectively, which is significantly  faster than the original script.
 
         ![VBA_Challenge_2017](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
         ![VBA_Challenge_2018](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
