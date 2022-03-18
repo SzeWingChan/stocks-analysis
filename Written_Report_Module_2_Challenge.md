@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
--   The purpose of the analysis is to compare stock performance in 2017 and 2018. By employing a marco, the entire dataset of different years could be analyzed in mere seconds.  And by refactoring the code, the script will become more efficient.
+-   The purpose of the analysis is to compare stock performance in 2017 and 2018. By employing a marco, the dataset of different years could be analyzed in mere seconds.  And by refactoring the code, the script will become more efficient.
 
 ## Results
 -   Stock performance in 2017 and 2018
@@ -16,7 +16,8 @@
     -   The original script (see below) took around 1.30 and 1.27 seconds (rounded to the nearest hundredth), respectively, to generate the analysis for 2017 and 2018, respectively.  
         ![VBA_Challenge_2017_Original](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png)
         ![VBA_Challenge_2018_Original](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png)
-    -   The refactored script took only 0.16 seconds (rounded to the nearest hundredth) to generate an analysis of 2017 and 2018, respectively, which is significantly faster than the original script.
+    -   The refactored script took only 0.16 seconds (rounded to the nearest hundredth) to generate an analysis of 2017 and 2018, respectively, which is significantly  faster than the original script.
+
         ![VBA_Challenge_2017](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
         ![VBA_Challenge_2018](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
         
