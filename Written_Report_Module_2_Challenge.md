@@ -38,6 +38,6 @@
     -	The benefits of refactoring the code might be minimal as the functionality remains the same.  The beneifts will be more prominet for bigger or more complicated dataset.
 
 - How do these pros and cons apply to refactoring the original VBA script?
-    -   Instead of having to loop 12 times to collect the total volume and stock performance for each stock, the refactored code only loops through the data once.  The execution time of the script is significantly reduced by around 87%.
+    -   Instead of having to loop 12 times to collect the total volume and stock performance for each stock, the refactored code only loops through the dataset once.  The execution time of the script is significantly reduced by around 87%.
 
     -   Since there are only two years (2017 and 2018), refactoring the code requires a moderate amount of time but the amount of time saved is not significant (in absolute terms).  Only when the dataset is much larger, and when the analysis needs to be done repeatedly, the refactoring becomes cost effective.
