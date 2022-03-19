@@ -9,6 +9,9 @@
     -   The prices of the majority of the stocks, except for TERP, increased in 2017.  The percentage increase ranged from the lowest 5.5% to the highest of 199.4%.
 
     -   In 2018, on the contrary, most of the stock prices dropped with the exception for ENPH and RUN.  DQ had the highest drop of 62.6%.
+        ![Stock_Performance_2017](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/Stock_Performance_2017.png)
+        ![Stock_Performance_2018](https://github.com/SzeWingChan/stocks-analysis/blob/main/Resources/Stock_Performance_2018.png)
+
 
     - 	Based on the data of 2017 and 2018, ENPH and RUN outperformed the other stocks and ENPH would be a great investment choice.
 
